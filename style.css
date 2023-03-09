@@ -1,0 +1,46 @@
+/* .div-one {
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    box-shadow: ;
+} */
+
+.blue {
+    color: green;
+}
+
+hr {
+    border: 2px solid blue;
+}
+
+button {
+    padding: 10px;
+    margin: 20px;
+}
+
+.important {
+    font-size: 25px;
+    color: blue;
+    font-weight: 900;
+}
+
+.p-two {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+
+/* .p-one {
+    color: blue;
+} */
+
+.p-three {
+    color: blue;
+}
+
+.p-four {
+    color: blue;
+}
